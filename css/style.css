@@ -1884,8 +1884,7 @@ body:after {
     -webkit-animation: 1.6s ease infinite wheel-up-down;
     -moz-animation: 1.6s ease infinite wheel-up-down;
     animation: 1.6s ease infinite wheel-up-down; }
-  .mouse:hover .mouse-icon {
-    border-color: #fff; }
+
 
 @-webkit-keyframes wheel-up-down {
   0% {
