@@ -511,8 +511,7 @@ body:after {
     transition: .3s all ease; }
   .sticky-wrapper .site-navbar {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);}
-    .sticky-wrapper .site-navbar .site-menu-toggle {
-      color: #fff; }
+    
     .sticky-wrapper .site-navbar .site-logo a {
       color: #fff; }
   
